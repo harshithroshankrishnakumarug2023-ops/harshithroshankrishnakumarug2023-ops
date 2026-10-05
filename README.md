@@ -30,7 +30,7 @@ materials.
 | Project | Year | What it is |
 | --- | --- | --- |
 | [Thesis: childhood maltreatment and inhibitory control](https://github.com/harshithroshankrishnakumarug2023-ops/thesis-inhibitory-control) | 2026 | Whether emotional abuse and emotional neglect relate differently to inhibitory control |
-| [Eyes on the Task](https://github.com/harshithroshankrishnakumarug2023-ops/eyes-on-the-task) | 2026 | Eye-tracking study of cognitive load and distractor relevance |
+| [Eyes on the Task](https://github.com/harshithroshankrishnakumarug2023-ops/eyes-on-the-task) | 2025 | Eye-tracking study of cognitive load and distractor relevance |
 | [Quantity discrimination in zebrafish](https://github.com/harshithroshankrishnakumarug2023-ops/zebrafish-quantity-discrimination) | 2025 | Numerical cognition and ratio rules in *Danio rerio* |
 
 ## Other repositories
